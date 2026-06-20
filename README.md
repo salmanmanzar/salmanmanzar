@@ -52,55 +52,58 @@ const salman = {
 
 ---
 
-### 🚀 Featured Projects
-<table>
-<tr>
-<td width="50%" valign="top">
-**🎯 SkillSense** &nbsp; `FYP`
-> AI-powered interview simulation & recruitment platform
+## 🚀 Featured Projects
+
+### 🎯 SkillSense `FYP`
+**AI-powered interview simulation & recruitment platform**
+
 - 🤖 OpenRouter-powered AI interview engine
-- 📋 Smart candidate–job matching system
+- 📋 Smart candidate–job matching system  
 - 🔐 JWT auth + role-based access control
-- 📊 Real-time interview analytics dashboard
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=nextdotjs)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-[![Frontend](https://img.shields.io/badge/Frontend-Repo-38bdf8?style=flat&logo=github)](https://github.com/salmanmanzar/Skill-Sense-New-Front)
-[![Backend](https://img.shields.io/badge/Backend-Repo-e0234e?style=flat&logo=github)](https://github.com/salmanmanzar/skill-sense-backend)
-</td>
-<td width="50%" valign="top">
-**🕵️ AI Fake News Detector**
-> ML model for real vs fake news classification
+- 📊 Real-time analytics dashboard
+
+**Tech Stack:**  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+
+**Links:** [🔗 Live](https://skill-sense-front.vercel.app) | [Frontend](https://github.com/salmanmanzar/Skill-Sense-New-Front) | [Backend](https://github.com/salmanmanzar/skill-sense-backend)
+
+---
+
+### 🕵️ AI Fake News Detector
+**ML model for real vs fake news classification**
+
 - 🔍 TF-IDF vectorization for feature extraction
 - 🧠 Trained classifier with high accuracy
 - ⚡ TypeScript API wrapper for integration
 - 📰 Dataset preprocessing & label balancing
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![NLP](https://img.shields.io/badge/-NLP-8B5CF6?style=flat)
-[![Repo](https://img.shields.io/badge/View-Repo-38bdf8?style=flat&logo=github)](https://github.com/salmanmanzar/Fake-News-Detector)
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-**🎮 Game Hub**
-> Game discovery platform with infinite scroll & filtering
-- 🔄 Data fetching & caching with React Query
-- 🌍 Global state management with Zustand
+
+**Tech Stack:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-8B5CF6?style=flat-square&logoColor=white)
+
+**Links:** [View Repository](https://github.com/salmanmanzar/Fake-News-Detector)
+
+---
+
+### 🎮 Game Hub
+**Game discovery platform with infinite scroll & filtering**
+
+- 🔄 React Query for smart data fetching & caching
+- 🌍 Zustand for global state management
 - ♾️ Infinite scroll & pagination
 - 🎨 Responsive UI with Chakra UI
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white)
-![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-4ED1C5?style=flat&logo=chakraui&logoColor=white)
-[![Repo](https://img.shields.io/badge/View-Repo-38bdf8?style=flat&logo=github)](https://github.com/salmanmanzar/Game-Hub)
-</td>
-<td width="50%" valign="top">
-</td>
-</tr>
-</table>
----
+
+**Tech Stack:**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=flat-square&logo=react%20query&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra%20UI-4ED1C5?style=flat-square&logo=chakraui&logoColor=white)
+
+**Links:** [View Repository](https://github.com/salmanmanzar/Game-Hub)
 
 ### 📊 GitHub Stats
 
