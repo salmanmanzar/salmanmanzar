@@ -53,50 +53,53 @@ const salman = {
 ---
 
 ### 🚀 Featured Projects
-
 <table>
 <tr>
 <td width="50%" valign="top">
-
 **🎯 SkillSense** &nbsp; `FYP`
-
 > AI-powered interview simulation & recruitment platform
-
 - 🤖 OpenRouter-powered AI interview engine
 - 📋 Smart candidate–job matching system
 - 🔐 JWT auth + role-based access control
 - 📊 Real-time interview analytics dashboard
-
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=nextdotjs)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-
 [![Frontend](https://img.shields.io/badge/Frontend-Repo-38bdf8?style=flat&logo=github)](https://github.com/salmanmanzar/Skill-Sense-New-Front)
 [![Backend](https://img.shields.io/badge/Backend-Repo-e0234e?style=flat&logo=github)](https://github.com/salmanmanzar/skill-sense-backend)
-
 </td>
 <td width="50%" valign="top">
-
 **🕵️ AI Fake News Detector**
-
 > ML model for real vs fake news classification
-
 - 🔍 TF-IDF vectorization for feature extraction
 - 🧠 Trained classifier with high accuracy
 - ⚡ TypeScript API wrapper for integration
 - 📰 Dataset preprocessing & label balancing
-
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![NLP](https://img.shields.io/badge/-NLP-8B5CF6?style=flat)
-
-[![Repo](https://img.shields.io/badge/View-Repo-38bdf8?style=flat&logo=github)](https://github.com/salmanmanzar/ai-fake-news-detector)
-
+[![Repo](https://img.shields.io/badge/View-Repo-38bdf8?style=flat&logo=github)](https://github.com/salmanmanzar/Fake-News-Detector)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+**🎮 Game Hub**
+> Game discovery platform with infinite scroll & filtering
+- 🔄 Data fetching & caching with React Query
+- 🌍 Global state management with Zustand
+- ♾️ Infinite scroll & pagination
+- 🎨 Responsive UI with Chakra UI
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-4ED1C5?style=flat&logo=chakraui&logoColor=white)
+[![Repo](https://img.shields.io/badge/View-Repo-38bdf8?style=flat&logo=github)](https://github.com/salmanmanzar/Game-Hub)
+</td>
+<td width="50%" valign="top">
 </td>
 </tr>
 </table>
-
 ---
 
 ### 📊 GitHub Stats
@@ -118,7 +121,7 @@ const salman = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/salmanmanzar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/muhammad-salman-manzar-003409248/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](www.linkedin.com/in/muhammad-salman-manzar-003409248)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadsalmanmanzar479@email.com)
 
