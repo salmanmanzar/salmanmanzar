@@ -13,19 +13,19 @@
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-```ts
-const salman = {
-  name     : "Salman Manzar",
-  role     : "Full Stack Developer",
-  education: "BSc Software Engineering — UIIT, PMAS-Arid Agriculture University, Rawalpindi",
-  company  : "Falconry Solutions",
-  stack    : ["Next.js", "NestJS", "Node.js", "React.js", "TypeScript", "MongoDB"],
-  passion  : "Building scalable web apps & AI-powered platforms",
-  contact  : "github.com/salmanmanzar",
-};
-```
+I'm **Salman Manzar**, a recent **BSc Software Engineering graduate** from UIIT, PMAS-Arid Agriculture University, actively seeking a Full Stack Developer role.
+
+I'm passionate about building scalable web applications and solving real-world problems through clean, efficient code. With a strong foundation in modern web technologies and AI/ML integration, I'm committed to continuous learning and delivering high-quality solutions.
+
+**Core Expertise:**
+- **Frontend:** React.js, Next.js, TypeScript
+- **Backend:** Node.js, NestJS, REST APIs
+- **Database:** MongoDB
+- **AI/ML:** NLP, ML model integration
+
+**What drives me:** Creating impactful applications, writing maintainable code, and growing as a developer in a collaborative environment.
 
 ---
 
