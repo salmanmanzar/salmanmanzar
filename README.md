@@ -263,7 +263,7 @@ An NLP-based machine learning project designed to classify news articles as **re
 
 ### 🔗 Repository
 
-🧠 **[View Repository](https://github.com/salmanmanzar/Fake-News-Detector)**
+🧠 **[View Repository](https://github.com/salmanmanzar/ai-fake-news-detector)**
 
 ---
 
